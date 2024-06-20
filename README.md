@@ -1,5 +1,6 @@
 ### Hi there 👋
-my name is krisssss. hii
+my name is kris
+
 
 <!--
 **KrzysztofWazydrag/KrzysztofWazydrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
