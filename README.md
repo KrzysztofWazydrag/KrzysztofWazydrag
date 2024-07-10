@@ -1,6 +1,6 @@
 ### Hi there 👋
 my name is kris
-I am learning
+I am learning python and JavaScript 
 
 <!--
 **KrzysztofWazydrag/KrzysztofWazydrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
