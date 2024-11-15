@@ -1,5 +1,5 @@
 ### Hi there 👋
-my name is kris
+my name is Krzysztof
 I am learning Python, JavaScript, Typescript
 
 <!--
