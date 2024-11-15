@@ -1,6 +1,7 @@
 ### Hi there 👋
-my name is Krzysztof
+My name is Krzysztof
 I am learning Python, JavaScript, Typescript
+![Codewars](https://github.r2v.ch/codewars?user=KrzysztofWazydrag)
 
 <!--
 **KrzysztofWazydrag/KrzysztofWazydrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
