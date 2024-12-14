@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Krzysztof
-I am working as Junior Software Engineer and currently learning Python, JavaScript, Typescript and Playwright
+I am working as Junior Software Engineer and currently learning Python, JavaScript, Typescript, Playwright and React Framework 
 ![Codewars](https://github.r2v.ch/codewars?user=KrzysztofWazydrag)
 
 <!--
