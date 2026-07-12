@@ -1,18 +1,62 @@
-### Hi there 👋
-My name is Krzysztof
-I am working as Junior Software Engineer and currently learning Python, JavaScript, Typescript, Playwright and React Framework 
-![Codewars](https://github.r2v.ch/codewars?user=KrzysztofWazydrag)
+<div align="center">
 
-<!--
-**KrzysztofWazydrag/KrzysztofWazydrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Full-stack builder focused on automation and workflow software
 
-Here are some ideas to get you started:
+I build practical full-stack applications that automate and improve real operational workflows: planning, internal processes, reporting, coordination and operational records.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, Testing, SQL, Typescript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My background combines production workflows, CNC automation, process improvement, commercial testing and hands-on security work.
+
+[SiteCrew case study](INSERT_LINK_HERE) · [Portfolio / demo](https://sitecrew-demo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/krzysztof-wazydrag)
+
+<br />
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-23272F?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+
+</div>
+
+## What I build
+
+I focus on workflow software where the value comes from reducing manual work and making operational processes easier to track: status changes, handovers, records, access control, reporting and clear feedback when something goes wrong.
+
+I use AI-assisted development as part of my workflow, but I care more about engineering quality than hype: readable code, tested behaviour, clear API contracts, CI/CD, observability and security-minded delivery.
+
+## Featured work: SiteCrew
+
+**SiteCrew** is a private full-stack operations platform designed around real production workflows.
+
+It covers planning, workforce coordination, internal work tracking, requisitions, deliveries, files, communication and operational reporting.
+
+The source code is private because SiteCrew is an actively developed product. A public case study with screenshots, architecture notes and selected engineering decisions will be published separately.
+
+[View SiteCrew case study](INSERT_LINK_HERE)
+
+## Technical focus
+
+- Full-stack application development with React, Next.js, Node.js and PostgreSQL
+- API design, validation, structured error handling and stable response contracts
+- Authentication, role-based access control and security-minded implementation
+- Commercial testing experience with Playwright for E2E and API testing
+- CI/CD, Docker-based deployment, health checks and release checks
+- Observability with logs, metrics and dashboards
+- Clean code, practical refactoring and documentation that explains decisions
+
+## Stack
+
+- **Frontend:** Next.js, React, TypeScript
+- **Backend:** Node.js, Express, PostgreSQL, Prisma
+- **Testing:** Playwright, Jest, React Testing Library
+- **Delivery:** GitHub Actions, Docker, Vercel, AWS Lightsail
+- **Observability:** Prometheus, Grafana, Loki
+- **API documentation:** OpenAPI / Swagger
+
+## Links
+
+- SiteCrew case study: [INSERT_LINK_HERE](INSERT_LINK_HERE)
+- Portfolio / demo: [https://sitecrew-demo.vercel.app/](https://sitecrew-demo.vercel.app/)
+- LinkedIn: [https://www.linkedin.com/in/krzysztof-wazydrag](https://www.linkedin.com/in/krzysztof-wazydrag)
