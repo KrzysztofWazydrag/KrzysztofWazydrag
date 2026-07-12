@@ -6,7 +6,7 @@ I build practical full-stack applications that automate and improve real operati
 
 My background combines production workflows, CNC automation, process improvement, commercial testing and hands-on security work.
 
-[SiteCrew case study](INSERT_LINK_HERE) · [Portfolio / demo](https://sitecrew-demo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/krzysztof-wazydrag)
+[Portfolio / demo](https://sitecrew-demo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/krzysztof-wazydrag)
 
 <br />
 
@@ -19,22 +19,6 @@ My background combines production workflows, CNC automation, process improvement
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
-
-## What I build
-
-I focus on workflow software where the value comes from reducing manual work and making operational processes easier to track: status changes, handovers, records, access control, reporting and clear feedback when something goes wrong.
-
-I use AI-assisted development as part of my workflow, but I care more about engineering quality than hype: readable code, tested behaviour, clear API contracts, CI/CD, observability and security-minded delivery.
-
-## Featured work: SiteCrew
-
-**SiteCrew** is a private full-stack operations platform designed around real production workflows.
-
-It covers planning, workforce coordination, internal work tracking, requisitions, deliveries, files, communication and operational reporting.
-
-The source code is private because SiteCrew is an actively developed product. A public case study with screenshots, architecture notes and selected engineering decisions will be published separately.
-
-[View SiteCrew case study](INSERT_LINK_HERE)
 
 ## Technical focus
 
@@ -57,6 +41,5 @@ The source code is private because SiteCrew is an actively developed product. A 
 
 ## Links
 
-- SiteCrew case study: [INSERT_LINK_HERE](INSERT_LINK_HERE)
 - Portfolio / demo: [https://sitecrew-demo.vercel.app/](https://sitecrew-demo.vercel.app/)
 - LinkedIn: [https://www.linkedin.com/in/krzysztof-wazydrag](https://www.linkedin.com/in/krzysztof-wazydrag)
