@@ -1,10 +1,10 @@
 <div align="center">
 
-# Full-stack builder focused on automation and workflow software
+# Full-stack builder focused on AI-assisted programming, agentic workflow and automation.
 
 I build practical full-stack applications that automate and improve real operational workflows: planning, internal processes, reporting, coordination and operational records.
 
-My background combines production workflows, CNC automation, process improvement, commercial testing and hands-on security work.
+My background combines production, CNC automation, process improvement, commercial testing and commercial hands-on cyber security - GRC.
 
 [Portfolio / demo](https://sitecrew-demo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/krzysztof-wazydrag)
 
@@ -32,14 +32,14 @@ My background combines production workflows, CNC automation, process improvement
 
 ## Stack
 
-- **Frontend:** Next.js, React, TypeScript
+- **Frontend:** Next.js, Astro, React, JS, TS
 - **Backend:** Node.js, Express, PostgreSQL, Prisma
-- **Testing:** Playwright, Jest, React Testing Library
+- **Testing:** Playwright, Jest
 - **Delivery:** GitHub Actions, Docker, Vercel, AWS Lightsail
 - **Observability:** Prometheus, Grafana, Loki
 - **API documentation:** OpenAPI / Swagger
 
 ## Links
 
-- Portfolio / demo: [https://sitecrew-demo.vercel.app/](https://sitecrew-demo.vercel.app/)
+- Main project SiteCrew: [https://sitecrew-demo.vercel.app/](https://sitecrew-demo.vercel.app/)
 - LinkedIn: [https://www.linkedin.com/in/krzysztof-wazydrag](https://www.linkedin.com/in/krzysztof-wazydrag)
