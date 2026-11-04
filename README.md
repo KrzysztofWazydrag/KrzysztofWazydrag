@@ -4,9 +4,9 @@
 
 I build practical full-stack applications that automate and improve real operational workflows: planning, internal processes, reporting, coordination and operational records.
 
-My background combines production, CNC automation, process improvement, commercial testing and commercial hands-on cyber security - GRC.
+My background combines production, CNC automation, process improvement, 3 years commercial experience in software testing(QA) and hands-on cyber security - GRC.
 
-[Portfolio / demo](https://sitecrew-demo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/krzysztof-wazydrag)
+[Main project SiteCrew / demo](https://sitecrew-demo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/krzysztof-wazydrag)
 
 <br />
 
@@ -33,7 +33,7 @@ My background combines production, CNC automation, process improvement, commerci
 ## Stack
 
 - **Frontend:** Next.js, Astro, React, JS, TS
-- **Backend:** Node.js, Express, PostgreSQL, Prisma
+- **Backend:** Node.js, Express, PostgreSQL, Prisma, Supabase
 - **Testing:** Playwright, Jest
 - **Delivery:** GitHub Actions, Docker, Vercel, AWS Lightsail
 - **Observability:** Prometheus, Grafana, Loki
