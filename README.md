@@ -4,7 +4,7 @@
 
 I build practical full-stack applications that automate and improve real operational workflows: planning, internal processes, reporting, coordination and operational records.
 
-My background combines production, CNC automation, process improvement, 3 years commercial experience in software testing(QA) and hands-on cyber security - GRC.
+My background combines production, CNC automation, process improvement, 2 years commercial experience in software testing(QA) and hands-on cyber security - GRC.
 
 [Main project SiteCrew / demo](https://sitecrew-demo.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/krzysztof-wazydrag)
 
